@@ -18,38 +18,38 @@ Dự án web bán mô hình sử dụng PHP thuần, HTML, CSS, và Bootstrap.
 
 ## Cấu trúc file
 model-shop/
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── uploads/
-│
-├── config/
-│   └── db.php
-│
-├── includes/
-│   ├── footer.php
-│   ├── header.php
-│   └── navbar.php
-│
-├── pages/
-│   ├── account.php
-│   ├── admin.php
-│   ├── cart.php
-│   ├── checkout.php
-│   ├── customer_management.php
-│   ├── employee.php
-│   ├── generate_invoice.php
-│   ├── login.php
-│   ├── logout.php
-│   ├── my_orders.php
-│   ├── order_management.php
-│   ├── products.php
-│   ├── register.php
-│   ├── reports.php
-│   └── user_management.php
-│
-├── index.php
-└── README.md
+- │
+- ├── assets/
+- │   ├── css/
+- │   │   └── style.css
+- │   ├── js/
+- │   │   └── script.js
+- │   └── uploads/
+- │
+- ├── config/
+- │   └── db.php
+- │
+- ├── includes/
+- │   ├── footer.php
+- │   ├── header.php
+- │   └── navbar.php
+- │
+- ├── pages/
+- │   ├── account.php
+- │   ├── admin.php
+- │   ├── cart.php
+- │   ├── checkout.php
+- │   ├── customer_management.php
+- │   ├── employee.php
+- │   ├── generate_invoice.php
+- │   ├── login.php
+- │   ├── logout.php
+- │   ├── my_orders.php
+- │   ├── order_management.php
+- │   ├── products.php
+- │   ├── register.php
+- │   ├── reports.php
+- │   └── user_management.php
+- │
+- ├── index.php
+- └── README.md
